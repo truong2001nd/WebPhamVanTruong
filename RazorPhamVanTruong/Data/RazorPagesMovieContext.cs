@@ -10,7 +10,9 @@ using RazorPhamVanTruong.Models;
         public RazorPagesMovieContext (DbContextOptions<RazorPagesMovieContext> options)
             : base(options)
         {
+
         }
 
         public DbSet<RazorPhamVanTruong.Models.Movie> Movie { get; set; }
+        public DbSet<RazorPhamVanTruong.Models.SinhVien> SinhViens{get;set;}
     }

@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using RazorPhamVanTruong.Models;
-
+using RazorPhamVanTruong.Data;
 namespace RazorPhamVanTruong.Pages_Movies
 {
     public class DetailsModel : PageModel

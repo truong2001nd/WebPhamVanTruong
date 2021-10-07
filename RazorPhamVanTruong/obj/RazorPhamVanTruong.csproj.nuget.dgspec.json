@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PhamTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj": {}
+    "E:\\WebPhamVanTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PhamTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj": {
+    "E:\\WebPhamVanTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhamTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj",
+        "projectUniqueName": "E:\\WebPhamVanTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj",
         "projectName": "RazorPhamVanTruong",
-        "projectPath": "C:\\Users\\PhamTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj",
+        "projectPath": "E:\\WebPhamVanTruong\\RazorPhamVanTruong\\RazorPhamVanTruong.csproj",
         "packagesPath": "C:\\Users\\PhamTruong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhamTruong\\RazorPhamVanTruong\\obj\\",
+        "outputPath": "E:\\WebPhamVanTruong\\RazorPhamVanTruong\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PhamTruong\\AppData\\Roaming\\NuGet\\NuGet.Config",

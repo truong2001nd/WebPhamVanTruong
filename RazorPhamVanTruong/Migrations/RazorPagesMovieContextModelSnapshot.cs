@@ -14,7 +14,58 @@ namespace RazorPhamVanTruong.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "5.0.9");
+                .HasAnnotation("ProductVersion", "5.0.10");
+
+            modelBuilder.Entity("RazorPagesMovie.Models.Employee", b =>
+                {
+                    b.Property<int>("EmployeeID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("Mnv")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Sex")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("EmployeeID");
+
+                    b.ToTable("Employee");
+                });
+
+            modelBuilder.Entity("RazorPagesMovie.Models.Lecture", b =>
+                {
+                    b.Property<int>("LectureID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Maths")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("numbers")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("LectureID");
+
+                    b.ToTable("Lecture");
+                });
+
+            modelBuilder.Entity("RazorPagesMovie.Models.Person", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("age")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Person");
+                });
 
             modelBuilder.Entity("RazorPhamVanTruong.Models.Movie", b =>
                 {
@@ -46,20 +97,6 @@ namespace RazorPhamVanTruong.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("Movie");
-                });
-
-            modelBuilder.Entity("RazorPhamVanTruong.Models.Person", b =>
-                {
-                    b.Property<int>("height")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
-
-                    b.Property<string>("color")
-                        .HasColumnType("TEXT");
-
-                    b.HasKey("height");
-
-                    b.ToTable("Person");
                 });
 
             modelBuilder.Entity("RazorPhamVanTruong.Models.SinhVien", b =>

@@ -15619,8 +15619,18 @@
   "RootNamespace": "RazorPhamVanTruong",
   "Documents": [
     {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Lectures\\Create.cshtml",
+      "TargetPath": "Pages\\Lectures\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Lectures\\Index.cshtml",
+      "TargetPath": "Pages\\Lectures\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15629,8 +15639,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Persons\\Index.cshtml",
+      "TargetPath": "Pages\\Persons\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Persons\\Edit.cshtml",
+      "TargetPath": "Pages\\Persons\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Employees\\Edit.cshtml",
+      "TargetPath": "Pages\\Employees\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15649,8 +15674,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Persons\\Create.cshtml",
+      "TargetPath": "Pages\\Persons\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Employees\\Delete.cshtml",
+      "TargetPath": "Pages\\Employees\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,8 +15699,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Lectures\\Delete.cshtml",
+      "TargetPath": "Pages\\Lectures\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Lectures\\Details.cshtml",
+      "TargetPath": "Pages\\Lectures\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Employees\\Details.cshtml",
+      "TargetPath": "Pages\\Employees\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15674,8 +15724,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Employees\\Index.cshtml",
+      "TargetPath": "Pages\\Employees\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Persons\\Delete.cshtml",
+      "TargetPath": "Pages\\Persons\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\SinhViens\\Delete.cshtml",
       "TargetPath": "Pages\\SinhViens\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Persons\\Details.cshtml",
+      "TargetPath": "Pages\\Persons\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15701,6 +15766,16 @@
     {
       "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\SinhViens\\Details.cshtml",
       "TargetPath": "Pages\\SinhViens\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Employees\\Create.cshtml",
+      "TargetPath": "Pages\\Employees\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\WebPhamVanTruong\\RazorPhamVanTruong\\Pages\\Lectures\\Edit.cshtml",
+      "TargetPath": "Pages\\Lectures\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
